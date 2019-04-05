@@ -1,0 +1,17 @@
+body {
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+}
+
+main {
+	flex: 1 0 auto;
+}
+
+.input-field label {
+	color: #000;
+}
+
+.input-field input[type=text]:focus+label {
+	color: #000;
+}
