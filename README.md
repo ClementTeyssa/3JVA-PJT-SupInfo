@@ -1,4 +1,4 @@
-# SupPictures
+# JEE project release for 3JAV course
 
 Voici la documentation pour le [projet SupPictures](./3JVA-Project-SupPictures.pdf). 
 
